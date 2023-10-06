@@ -1,3 +1,5 @@
+# Importing functions into my python code from a module
+from math import *   # imports math functions to my code and I can access a variety of functions
 # Defining and Using variables
 character_name = 'John'
 character_age = '35'
@@ -47,9 +49,6 @@ my_num = -4
 print(abs(my_num))   # prints absolute value
 
 print(pow(2, 5))   # raising 2 to the power of 5
-
-# Importing functions into my python code
-from math import *   # imports math functions to my code and I can access a variety of functions
 
 print(floor(3.8))   # Gives the whole no. without rounding up
 print(ceil(3.9))  # rounds up the number upwards to the next whole number
