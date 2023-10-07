@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4950182-a38e-4c83-86ee-238fd07c4cf8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic Calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guessing Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Improved Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if statements &amp; comparisons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/List functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mad Libs Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mad Libs Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuples.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
